@@ -1,6 +1,6 @@
 {
   "name": "dd-plugboy",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "CLI for JavaScript plugin development using TypeScript, Babel, CSS preprocessor, etc.",
   "bin": {
     "plugboy": "lib/index.js"
