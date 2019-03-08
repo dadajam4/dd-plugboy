@@ -1,0 +1,32 @@
+#########################
+# temporary files
+#########################
+npm-debug.log
+.DS_Store
+*.tmp
+.rpt2_cache
+
+#########################
+# private files
+#########################
+
+# editor setting
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+.prettierrc.json
+
+# modules
+node_modules
+
+# environments
+package-lock.json
+.node-version
+
+#########################
+# others
+#########################
+
+# for child directories...
+!.gitignore
