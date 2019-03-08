@@ -5,11 +5,29 @@
   "bin": {
     "plugboy": "lib/index.js"
   },
+  "files": [
+    "lib"
+  ],
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/dadajam4/dd-plugboy.git"
+  },
+  "keywords": [
+    "plugin",
+    "cli",
+    "rollup",
+    "vue",
+    "typescript"
+  ],
   "author": "dadajam4",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dadajam4/dd-plugboy/issues"
+  },
+  "homepage": "https://github.com/dadajam4/dd-plugboy#readme",
   "dependencies": {
     "browserslist": "^4.4.2",
     "chalk": "^2.0.0",
