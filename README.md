@@ -1,4 +1,5 @@
 # dd-plugboy
+___This package has been moved to: [https://www.npmjs.com/package/@dadajam4/plugboy](https://www.npmjs.com/package/@dadajam4/plugboy)___
 
 CLI for JavaScript plugin development using TypeScript, Babel, CSS preprocessor, etc.
 
